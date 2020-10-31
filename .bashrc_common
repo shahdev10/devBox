@@ -1,0 +1,6 @@
+# .bashrc
+
+# User defined aliases
+. ~/.bash_aliases
+
+set -o vi

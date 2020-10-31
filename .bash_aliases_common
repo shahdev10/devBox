@@ -1,0 +1,22 @@
+# .bashrc
+# Common aliases
+
+alias ll='ls -lF'
+alias lt='ls -ltrF'
+alias la='ls -Al'
+alias l='ls -CF'
+alias l.='ls -d .*'
+
+alias rm='rm -i'
+alias h='history'
+alias ..='cd ..'
+alias ...='cd ../..'
+alias cp='cp -i'
+alias more='less'
+
+alias valias='vim ~/.bash_aliases'
+alias ualias='source ~/.bash_aliases'
+alias vbashrc='vim ~/.bashrc'
+
+alias psu='ps -ef | grep svipul'
+

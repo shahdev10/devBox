@@ -1,0 +1,6 @@
+# .bashrc
+
+if [ -f ~/git/myBox/skel/.bash_aliases_common ]; then
+	. ~/git/myBox/skel/.bash_aliases_common
+fi
+
