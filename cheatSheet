@@ -1,3 +1,16 @@
 
-ps -ef | grep dshah
+ps -ef | grep dshah //check processes and process ID
 rm -r directory-name 
+
+In File bash_aliases_common, can write terminal commands
+
+[dshah@linux10624 ~]$ ps -ef | grep dshah
+dshah    20681     1  0 21:39 ?        00:00:00 tmux -CC
+dshah    20682 20681  0 21:39 pts/2    00:00:00 -bash
+dshah    20743 20681  0 21:39 pts/3    00:00:00 -bash
+root     20838  1806  0 21:40 ?        00:00:00 sshd: dshah [priv]
+dshah    20840 20838  0 21:40 ?        00:00:00 sshd: dshah@pts/1
+dshah    20841 20840  0 21:40 pts/1    00:00:00 tmux -CC attach
+dshah    21925 20743  1 21:47 pts/3    00:00:00 vim
+dshah    21946 20682  0 21:47 pts/2    00:00:00 ps -ef
+dshah    21947 20682  0 21:47 pts/2    00:00:00 grep --color=auto dshah
