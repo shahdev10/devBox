@@ -1,6 +1,7 @@
 
 ps -ef | grep dshah //check processes and process ID
 rm -r directory-name 
+grep myBox .* //search for a specific word in all files in given directory
 
 In File bash_aliases_common, can write terminal commands
 
