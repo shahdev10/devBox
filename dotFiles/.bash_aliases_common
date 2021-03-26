@@ -18,5 +18,11 @@ alias valias='vim ~/.bash_aliases'
 alias ualias='source ~/.bash_aliases'
 alias vbashrc='vim ~/.bashrc'
 
-alias psu='ps -ef | grep svipul'
+alias psu='ps -ef | grep devshah'
+
+myGitHub() {
+   git config --global user.name shahdev10
+   git config --global user.email shahdev1010@gmail.com
+   git config -l
+}
 

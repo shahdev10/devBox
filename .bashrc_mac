@@ -1,7 +1,0 @@
-# .bashrc
-
-if [ -f ~/git/myBox/skel/.bashrc_common ]; then
-	. ~/git/myBox/skel/.bashrc_common
-fi
-
-[ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
