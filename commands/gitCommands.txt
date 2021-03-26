@@ -1,0 +1,18 @@
+git add .  OR  git add <filename>
+
+git commit -a -m "Some message"
+
+git push -u origin master
+
+General commands
+==============
+git status
+git log
+
+Add Repository
+================
+which git
+
+***go to git folder***
+
+git clone (Paste link)

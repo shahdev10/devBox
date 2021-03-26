@@ -1,0 +1,13 @@
+General -> Show scroll bars -> Always / jump to spot
+Dock - Uncheck : Show recent applications in Dock
+#Spotlight : Privacy : Add folders (Dropbox, Google Drive, Box) for not searching
+#Spotlight : Deselect the “Allow Spotlight Suggestions in Look up” checkbox. 
+#Spotlight : Deselect theSpotlight : In the list, deselect the Spotlight Suggestions checkbox.
+#Security & Privacy : Privacy tab : Deselect Spotligth from 'Enable Location Service'
+#Sharing -> Remote Login:On (allow ssh to Mac from user servers)
+
+Keyboard : Shortcuts : Func Keys : Add iTerm and MacVim in the list
+Keyboard : Keyboard : Modifier Keys: Caps Lock <-> Control
+#Keyboard : Shortcuts : Mission Control : Show Notification Center - F12
+#Mouse : Enable Secondary click
+Mouse : Enable Swipe between pages
