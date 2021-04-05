@@ -30,7 +30,3 @@ myGitHub() {
    git config -l
 }
 
-rsyncRestore() {
-    /usr/bin/rsync -v -rlpt --stats --delete --exclude-from=.RSYNC_EXCLUDE /Volumes/WD\ 400G\ ExF/ArchiveData Backup
-     /usr/bin/rsync -v -rlpt --stats --delete --exclude-from=.RSYNC_EXCLUDE /Volumes/WD\ 400G\ ExF/Archive Backup
- }

@@ -4,6 +4,7 @@ ln -s git/devBox/macFiles/.bash_aliases .bash_aliases
 ln -s git/devBox/dotFiles/.bashrc_common .bashrc_common
 ln -s git/devBox/dotFiles/.bash_aliases_common .bash_aliases_common
 
+ln -s git/devBox/macFiles/.RSYNC_EXCLUDE .RSYNC_EXCLUDE
 
 # On Linux & Mac
 ln -s git/devBox/dotFiles/.vim .vim
