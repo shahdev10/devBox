@@ -8,6 +8,7 @@ General commands
 ==============
 git status
 git log
+git log -2 //last 2 commit history
 
 Add Repository
 ================
