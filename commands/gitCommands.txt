@@ -17,3 +17,12 @@ which git
 ***go to git folder***
 
 git clone (Paste link)
+
+Add Branch / Commit for Pull Request
+====================================
+git checkout -b new_branch
+git add <file>
+git commit -a -m "some message"
+git push -u origin new_branch
+
+then go to website and create pull request
